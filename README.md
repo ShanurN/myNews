@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+composer install
+php artisan migrate
+
+
+
+
+
 # mynews
 
 ***
